@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116536934849",
+    "project_id": "cidadao-atento-7dc9b",
+    "storage_bucket": "cidadao-atento-7dc9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116536934849:android:65034672324425f47def40",
+        "android_client_info": {
+          "package_name": "com.cidadao.cidadao_atento_ac3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1GZFJ267sgZI0AAzsaf4x01Uu4wX5Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
